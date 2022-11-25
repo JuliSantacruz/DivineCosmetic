@@ -1,0 +1,23 @@
+[{
+  "_id": {
+    "$oid": "6361f31adfbb1c80dc077ac9"
+  },
+  "nombre": "Dre",
+  "apellido_p": "Stephens",
+  "apellido_m": "Stephens2",
+  "telefono": "52134625626",
+  "mail": "drestephens@gmail.com",
+  "direccion": "546292dfdsfds65fs6d",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6361fa54da68ca86b3654a06"
+  },
+  "nombre": "BigLuna",
+  "apellido_p": "MoonGod",
+  "apellido_m": "Heaven",
+  "telefono": "555626232",
+  "mail": "heavenmoon@gmail.com",
+  "direccion": "545644",
+  "__v": 0
+}]

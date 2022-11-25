@@ -1,0 +1,41 @@
+[{
+  "_id": {
+    "$oid": "6363436fb4ba8080ef66b37e"
+  },
+  "producto_id": "pantene_2",
+  "nombre": "pantene",
+  "categoria": "Hair",
+  "descripcion": "dfhdsbgdfbghfbgndf",
+  "precio": 12,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380e9182699e2e41e862c98"
+  },
+  "producto_id": "Hempt_1",
+  "nombre": "Hempt",
+  "categoria": "Hair",
+  "descripcion": "The best",
+  "precio": 8,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380e9be2699e2e41e862c9d"
+  },
+  "producto_id": "Treseme_1",
+  "nombre": "Treseme",
+  "categoria": "Hair",
+  "descripcion": "The best",
+  "precio": 6,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6380fb192699e2e41e862cb8"
+  },
+  "producto_id": "Dove_1",
+  "nombre": "Dove",
+  "categoria": "Hair",
+  "descripcion": "The best",
+  "precio": 11,
+  "__v": 0
+}]
