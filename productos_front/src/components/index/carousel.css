@@ -1,0 +1,9 @@
+#carousel {
+    margin-top: 5%; 
+}
+
+#carousel .d-block{
+    height: 90vh;
+    min-height: 50%;
+    width: 100%;
+}

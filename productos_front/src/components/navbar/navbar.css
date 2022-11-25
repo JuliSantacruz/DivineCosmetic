@@ -1,0 +1,38 @@
+#navbar #dropdown-header .row:nth-child(1){
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+}
+#navbar #dropdown-header .row:nth-child(2){
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+}
+
+/* override bootstrap navbar colors */
+.navbar,
+.navbar-default {
+    background: rgb(218,82,152);
+    background: linear-gradient(90deg, rgba(218,82,152,1) 0%, rgb(159, 147, 248) 50%, rgb(241, 155,155) 100%);
+}
+
+.logo{
+    width: 100px;
+        }
+    
+    .logo img{
+    float: left;
+    margin-left: 0px 0px 0px 10px;
+    width: 100px;
+    height: 100px;
+    }
+#navbar #dropdown-basic-button{
+    background: rgb(191, 94, 194) 100%;
+}
+
+#navbar-brand {
+    font-size: 50px;
+    align-items: center;
+    justify-items: center;
+}
